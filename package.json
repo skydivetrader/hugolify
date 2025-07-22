@@ -1,15 +1,15 @@
 {
-  "name": "hugolify-template",
+  "name": "hugolify",
   "version": "1.16.0",
   "homepage": "https://www.hugolify.io",
-  "repository": "https://github.com/hugolify/hugolify-template",
+  "repository": "https://github.com/skydivetrader/hugolify",
   "bugs": {
-    "url": "https://github.com/hugolify/hugolify-template/issues"
+    "url": "https://github.com/skydivetrader/hugolify/issues"
   },
   "author": {
-    "email": "sebousan@gmail.com",
-    "name": "Sébastien Moulène",
-    "url": "https://www.sebastienmoulene.com/"
+    "email": "80734904+skydivetrader@users.noreply.github.com",
+    "name": "skydivetrader",
+    "url": "https://github.com/skydivetrader"
   },
   "license": "MIT",
   "devDependencies": {
